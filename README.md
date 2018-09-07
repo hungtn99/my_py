@@ -5,7 +5,7 @@
 - Có rất nhiều git server cho phép ta store free Github (the most well-known, mình recommend dùng), Gitlab, Bitbucket, etc. Tạo tài khoản và the first Github repo các bạn có thể follow theo guide https://o7planning.org/vi/10283/huong-dan-su-dung-github-voi-github-desktop (không thể chi tiết hơn).
 - Cuối cùng, để cho mọi việc dễ dàng hơn, local bạn nên cài Github Desktop. Cách cài m đã để ở link trên. Các bạn có thể practice theo như guide đó (rất easy).
 
-Trên đây là guide từ một người không chuyên viết lách. Có vẻ mọi thứ phức tạp, tuy nhiên tổng kết lại các bạn chỉ cần biết cho mình 4 lệnh tương ứng với 4 chức năng chính của git là được (các lệnh này đều có thể được thực hiện bằng giao diện Github Desktop):
+Trên đây là guide từ một người không chuyên viết lách. Có vẻ mọi thứ phức tạp, tuy nhiên tổng kết lại các bạn chỉ cần biết cho mình 5 lệnh tương ứng với 5 chức năng chính của git là được (các lệnh này đều có thể được thực hiện bằng giao diện Github Desktop):
 - git clone (clone 1 repo từ git server về local)
 - git add (thêm các files thay đổi để commit)
 - git commit (commit thay đổi từ local)
